@@ -5,4 +5,8 @@ Julian esta aburrido mirando
 para todos los lados no sabe que hacer
 
 Andrea estuvo durmiendo
+<<<<<<< HEAD
 en la tarde en el mueble del carro 
+=======
+en la tarde en el mueble del carro 
+>>>>>>> cabecera
